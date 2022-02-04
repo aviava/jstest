@@ -26,3 +26,6 @@ ________________________________________________________
 cd ..
 cd FolderName
 git clone https://github.com/aviava/jstest.git FolderSubName
+
+git pull
+
