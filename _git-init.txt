@@ -1,0 +1,39 @@
+*** 01 ***
+git init
+
+*** 02 ***
+git config --global user.name "Roman Diakov"
+git config --global user.email dromanua@gmail.com
+
+git config --local user.name "Roman Diakov"
+git config --local user.email dromanua@gmail.com
+
+*** 03 ***
+git add -A
+
+*** 04 ***
+git commit -a -m" first commit "
+
+*** 05 ***
+git init
+
+*** 06 ***
+git init
+
+*** 06 ***
+git init
+
+*** 08 ***
+git init
+
+*** 09 ***
+git init
+
+*** 10 ***
+git init
+
+*** 11 ***
+git init
+
+*** 12 ***
+git init
